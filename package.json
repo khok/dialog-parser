@@ -1,0 +1,9 @@
+{
+  "name": "dialog-parser",
+  "version": "1.0.0",
+  "description": "Requests values from user and create JSON by defined rules",
+  "main": "lib/parser.js",
+  "repository": "git+https://github.com/khok/dialog-parser",
+  "author": "Maxim Khokhryakov <khokhryakovmax@yandex.ru>",
+  "license": "MIT"
+}
